@@ -43,6 +43,12 @@ We do not sell or rent your data. However, we may share data with:
 
 SAI is designed for all ages. However, children under 13 should use the app under parental supervision. We do not knowingly collect personal data from children under 13 without parental consent.  
 
-## 8. Contact Us  
+
+## 8. Cancellations and Refunds  
+
+Users can modify or cancel their subscription plans at any time. However, all payments are final, and no refunds will be issued for any reason, including partial usage of a subscription period. Changes made to a plan will take effect in the next billing cycle.
+
+
+## 9. Contact Us  
 
 For questions regarding this Privacy Policy, email us at [symmatricdev311@gmail.com](mailto:symmatricdev311@gmail.com).  
